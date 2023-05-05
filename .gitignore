@@ -1,0 +1,9 @@
+*
+!*/
+
+!.gitignore
+!paper/config/paper-global.yml
+!paper/config/paper-world-defaults.yml
+!paper/server.properties
+!paper/spigot.yml
+!velocity/velocity.toml
